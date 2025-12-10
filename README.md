@@ -228,7 +228,7 @@ MovieBot/
 
 ## 👨‍💻 Autores
 
-**Lucia Formenti**
+**Lucia Formenti y**
 **Sol Mansilla**
 
   - Proyecto Universitario: Algortimia y Lógica Computacional.
